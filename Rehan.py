@@ -376,7 +376,6 @@ class Main:
 			else:
 				continue
 
- #REHAN copy krke apna name dal dyna
 
 		self.loop +=1
 
